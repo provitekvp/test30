@@ -3,3 +3,5 @@ Viktor
 Age 
 30
 test
+city
+Pavlodar

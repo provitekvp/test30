@@ -4,3 +4,4 @@ test
 test
 Write 1.txt
 six line
+test line
